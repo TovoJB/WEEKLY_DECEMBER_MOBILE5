@@ -1,6 +1,6 @@
 # flappy_bird
 
-This is a Flappy Bird game built in Flutter using the Flame engine. If you want to know how to create games with Flutter & Flame, visit our YouTube channel to watch the complete Tutorial.
+Il s'agit d'un jeu Flappy Bird réalisé avec Flutter en utilisant le moteur Flame.
 
 ## Étapes d'installation
 1. Clonez le dépôt GitHub :
