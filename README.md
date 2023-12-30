@@ -1,19 +1,20 @@
-# flappy_bird_game
+# flappy_bird
 
 This is a Flappy Bird game built in Flutter using the Flame engine. If you want to know how to create games with Flutter & Flame, visit our YouTube channel to watch the complete Tutorial.
 
-Link: https://youtu.be/zcs8qRBRz7w?si=e4UV_Lf3dbyE9Yj8
+## Étapes d'installation
+1. Clonez le dépôt GitHub :
 
-## Getting Started
+   ```sh
+   git clone https://github.com/TovoJB/WEEKLY_DECEMBER_MOBILE4.git
+2. cd WEEKLY_DECEMBER_MOBILE4 :
+3. flutter pub get 
+3. flutter run 
 
-Once you have downloaded this project, you will find all the assets used with in the game.
+### flappy_bird/screens
 
-Here are a few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, please take a look at the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# flappy_bird_game
+<div align="center">
+  <img src="/flapy1.jpg" width="200" />
+  <img src="/flapy2.jpg" width="200" />
+  <img src="/flapy3.jpg" width="200" />
+</div>
